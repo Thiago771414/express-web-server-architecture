@@ -28,6 +28,12 @@ It can be used as a **learning reference for backend developers building APIs wi
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/serverExpress.png" width="900">
+</p>
+
+---
+
 # Case Study
 
 ## Problem
