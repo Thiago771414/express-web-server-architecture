@@ -1,6 +1,6 @@
 # Node.js Express Web Server Architecture Guide
 
-![Project Type](https://img.shields.io/badge/Project%20Type-Backend%20Learning%20Case%20Study-purple)
+![Project Type](https://img.shields.io/badge/Project%20Type-Backend%20Architecture%20Case%20Study-purple)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
 ![Express](https://img.shields.io/badge/Framework-Express-black)
 ![REST](https://img.shields.io/badge/API-REST-blue)
